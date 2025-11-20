@@ -1,2 +1,2 @@
 # Django_mento
-Django_mento
+MySQL 연결
